@@ -36,7 +36,7 @@
             app:destination="@id/homeFragment" />
         <argument
             android:name="note"
-            app:argType="com.sahil.notesapp.model.Note"
+            app:argType="com.sahilm.notesapp.model.Note"
             app:nullable="true" />
     </fragment>
 </navigation>
